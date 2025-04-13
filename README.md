@@ -53,7 +53,7 @@ streamlit run app.py
 
 ---
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-green)]([https://your-streamlit-link.com](https://used-car-price-predictor-kvjrg37m3zzgafzhkmbmvr.streamlit.app/))
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-green)](https://used-car-price-predictor-kvjrg37m3zzgafzhkmbmvr.streamlit.app/)
 
 ---
 If you like the project, don’t forget to 🌟 Star this repo and share it with your ML fam!😎📸
