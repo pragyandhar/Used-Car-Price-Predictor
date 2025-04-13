@@ -37,5 +37,21 @@ With the rise of the used car market, estimating the right resale value of a car
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/Used-Car-Price-Predictor.git
+git clone https://github.com/pragyandhar/Used-Car-Price-Predictor.git
 cd Used-Car-Price-Predictor
+
+pip install -r requirements.txt
+
+streamlit run app.py
+```
+---
+## 📁 Folder Structure
+├── app.py                   # Streamlit GUI Code
+├── car_price_model.pkl      # Trained ML Model
+├── requirements.txt         # List of dependencies
+├── README.md                # You're reading it 😉
+
+
+---
+
+Let me know if you want me to generate a screenshot for your GUI too or help you deploy and embed the real Streamlit link once you host it! 😎📸
