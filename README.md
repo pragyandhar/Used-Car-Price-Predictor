@@ -46,8 +46,9 @@ streamlit run app.py
 ## 📁 Folder Structure
 1) app.py                   (Streamlit GUI Code)
 2) car_price_model.pkl      (Trained ML Model)
-3) requirements.txt         (List of dependencies)
-4) README.md                (You're reading it 😉)
+3) UsedCarsPricePred.ipynb  (Jupyter Notebook (your training + analysis))
+4) requirements.txt         (List of dependencies)
+5) README.md                (You're reading it 😉)
 
 
 ---
