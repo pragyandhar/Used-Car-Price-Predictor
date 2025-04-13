@@ -46,10 +46,10 @@ streamlit run app.py
 ```
 ---
 ## 📁 Folder Structure
-├── app.py                   # Streamlit GUI Code
-├── car_price_model.pkl      # Trained ML Model
-├── requirements.txt         # List of dependencies
-├── README.md                # You're reading it 😉
+1) app.py                   (Streamlit GUI Code)
+2) car_price_model.pkl      (Trained ML Model)
+3) requirements.txt         (List of dependencies)
+4) README.md                (You're reading it 😉)
 
 
 ---
