@@ -44,12 +44,12 @@ streamlit run app.py
 ```
 ---
 ## 📁 Folder Structure
-1) Car_Data.csv             (This is the Dataset)
-2) app.py                   (Streamlit GUI Code)
-3) car_price_model.pkl      (Trained ML Model)
-4) UsedCarsPricePred.ipynb  (Jupyter Notebook (your training + analysis))
-5) requirements.txt         (List of dependencies)
-6) README.md                (You're reading it 😉)
+1) Car_Data.csv ---------------- (This is the Dataset)
+2) app.py ---------------------- (Streamlit GUI Code)
+3) car_price_model.pkl --------- (Trained ML Model)
+4) UsedCarsPricePred.ipynb ----- (Jupyter Notebook (your training + analysis))
+5) requirements.txt ------------ (List of dependencies)
+6) README.md ------------------- (You're reading it 😉)
 
 
 ---
