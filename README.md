@@ -44,13 +44,13 @@ streamlit run app.py
 ```
 ---
 ## 📁 Folder Structure
-1) app.py                   (Streamlit GUI Code)
-2) car_price_model.pkl      (Trained ML Model)
-3) UsedCarsPricePred.ipynb  (Jupyter Notebook (your training + analysis))
-4) requirements.txt         (List of dependencies)
-5) README.md                (You're reading it 😉)
+1) Car_Data.csv             (This is the Dataset)
+2) app.py                   (Streamlit GUI Code)
+3) car_price_model.pkl      (Trained ML Model)
+4) UsedCarsPricePred.ipynb  (Jupyter Notebook (your training + analysis))
+5) requirements.txt         (List of dependencies)
+6) README.md                (You're reading it 😉)
 
 
 ---
-
-Let me know if you want me to generate a screenshot for your GUI too or help you deploy and embed the real Streamlit link once you host it! 😎📸
+If you like the project, don’t forget to 🌟 Star this repo and share it with your ML fam!😎📸
