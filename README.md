@@ -51,6 +51,9 @@ streamlit run app.py
 5) requirements.txt ------------ (List of dependencies)
 6) README.md ---------------- (You're reading it 😉)
 
+---
+
+[![Streamlit App](https://img.shields.io/badge/Streamlit-Live-green)]([https://your-streamlit-link.com](https://used-car-price-predictor-kvjrg37m3zzgafzhkmbmvr.streamlit.app/))
 
 ---
 If you like the project, don’t forget to 🌟 Star this repo and share it with your ML fam!😎📸
