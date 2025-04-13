@@ -34,8 +34,6 @@ With the rise of the used car market, estimating the right resale value of a car
 
 ## 🛠️ How to Use Locally
 
-### 1. Clone the Repo
-
 ```bash
 git clone https://github.com/pragyandhar/Used-Car-Price-Predictor.git
 cd Used-Car-Price-Predictor
